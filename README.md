@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kevin Chénier</h1>
 <h3 align="center">I'm a graduate in Software Engineering at École de technologie supérieure, currently completing a master's degree in Healthcare Technologies. Whether it's creating complex 3D environments, building a website, developing a mobile app or bringing real-world applications into life with robotics, programming has helped me turn ideas into tangible, functional realities.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" /></a> </p>
 
 - 🔭 I’m currently working on [Ataxia Tools](https://github.com/KevinChenier/AtaxieTools)
 
