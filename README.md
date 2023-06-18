@@ -3,7 +3,7 @@
 
 <p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="right" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" /></a> </p>
 
-- 🔭 I’m currently working on [Ataxia Tools](https://github.com/KevinChenier/AtaxieTools)
+- 🔭 I’m currently working on [Ataxia Tools](https://github.com/KevinChenier/AtaxieTools) and [Pointing Avatar](https://github.com/KevinChenier/PointingAvatar)
 
 - 🌱 I’m currently learning **PyTorch**
 
