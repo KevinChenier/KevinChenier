@@ -54,6 +54,7 @@
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kevinchenier&show_icons=true&locale=en&layout=compact" alt="kevinchenier" /></p>
+<p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=kevinchenier&show_icons=true&locale=en&layout=compact&hide=qml" alt="kevinchenier" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kevinchenier&" alt="kevinchenier" /></p>
