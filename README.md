@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [iCANBox](https://kevinchenierdev.site/portfolio/icanbox) and [Space Survivors](https://kevinchenierdev.site/portfolio/spacesurvivors)
 
-- 🌱 I’m currently learning **Unreal Engine 5.3**
+- 🌱 I’m currently learning **Unreal Engine 5.4 and visionOS**
 
 - 👨‍💻 Most of my projects are available at [https://kevinchenierdev.site/](https://kevinchenierdev.site/)
 
