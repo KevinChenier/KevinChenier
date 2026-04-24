@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Kevin Chénier</h1>
-<h3 align="center">I'm a graduate in Software Engineering at École de technologie supérieure, currently completing a master's degree in Healthcare Technologies. Whether it's creating complex 3D environments, building a game, building a website, or bringing real-world applications into life with robotics, programming has helped me turn ideas into tangible, functional realities.</h3>
+<h3 align="center">I'm a software engineer specializing in XR, real-time 3D, AI-powered tools, and interactive simulation.
+I am currently deepening my expertise in RealityKit, ARKit, and iOS development, while building immersive applications, aerospace Research & Technology fast prototypes and apps, and agentic systems for advanced real-world and research use cases.
+My work focuses on transforming how companies apply spatial computing by turning complex research, design, and operational challenges into practical immersive software solutions.</h3>
 
 <p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="right" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" /></a> </p>
 
-- 🔭 I’m currently working on [iCANBox](https://kevinchenierdev.site/portfolio/icanbox) and [Space Survivors](https://kevinchenierdev.site/portfolio/spacesurvivors)
-
-- 🌱 I’m currently learning **Unreal Engine 5.4 and visionOS**
+- 🔭 I’m currently working at Bombardier and on [iCANBox](https://kevinchenierdev.site/portfolio/icanbox)
 
 - 👨‍💻 Most of my projects are available at [https://kevinchenierdev.site/](https://kevinchenierdev.site/)
 
-- 💬 Ask me about **Unity** and **Unreal Engine**
-
 - 📫 How to reach me **email@kevinchenierdev.site**
 
-- 📄 Know about my experiences [https://kevinchenierdev.site/about](https://kevinchenierdev.site/about)
+- 📄 Know about some of my experiences [https://kevinchenierdev.site/about](https://kevinchenierdev.site/about)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
